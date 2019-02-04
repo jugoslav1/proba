@@ -25,8 +25,7 @@
          
          PREZIME: 
           <input type="text" name="prezime"> <br/> 
-		  PREZIME: 
-          <input type="text" name="prezime"> <br/> 
+		
 		  
           OPSTINA: 
           <input type="text" name="opstina"> <br/>
