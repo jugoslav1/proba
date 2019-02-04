@@ -27,7 +27,10 @@
           <input type="text" name="prezime"> <br/> 
 		  PREZIME: 
           <input type="text" name="prezime"> <br/> 
+		  
           OPSTINA: 
+          <input type="text" name="opstina"> <br/>
+		   OPSTINA: 
           <input type="text" name="opstina"> <br/>
            BROJ TELEFONA: 
           <input type="text" name="brTel"> <br/>
